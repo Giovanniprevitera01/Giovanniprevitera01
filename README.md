@@ -8,6 +8,10 @@
 
 ## 🚀 Tech Stack & Tools
 
+
+ 
+## 🚀 Tech Stack & Tools
+
 <p align="center">
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
@@ -25,7 +29,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://scipy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/scipy_logo.svg" alt="SciPy" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
+    <img src="./assets/scipy_white_bg.png" alt="SciPy" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
@@ -58,11 +62,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://ampedsoftware.com/five" target="_blank">
-    <img src="https://ampedsoftware.com/images/products/five/FIVE-logo-color.svg" alt="Amped FIVE" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
+    <img src="./assets/ampedfive_white_bg.png" alt="Amped FIVE" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
 </p>
-
- 
 
 
 ---
@@ -74,11 +76,10 @@
 - 🌐 **Networking**: Solid understanding of network protocols, IP configuration, routing, and network management concepts.
 - 🏗️ **Design Patterns**: Familiar with key design patterns for writing clean, modular, and maintainable code.
 - 👁️ **Computer Vision**: Knowledge of facial recognition, image processing, and basic machine learning techniques for digital image analysis.
+-  📈 **Data Analysis & Visualization**: Hands-on experience in exploratory data analysis, statistical modeling, and building insightful visual dashboards using Python (Pandas, Matplotlib, Seaborn) and Jupyter Notebooks
 - 🕵️‍♂️ **Digital Forensics**: Skills in analyzing and recovering digital evidence using tools like Amped FIVE; capable of drafting technical forensic reports.
 - 🧠 **Problem Solving**: Strong logical reasoning and mathematical skills applied to computational challenges.
 - 🛠️ **Other Tools**: Proficient with Linux environments, virtualization software, and version control systems (Git & GitHub).
-- 📈 **Data Analysis & Visualization**: Hands-on experience in exploratory data analysis, statistical modeling, and building insightful visual dashboards using Python (Pandas, Matplotlib, Seaborn) and Jupyter Notebooks
-
 
 ---
 
@@ -95,4 +96,4 @@
 ## 📫 Contact Me
 
 - 📧 Email: [Previtera40@gmail.com](mailto:Previtera40@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/Giovanni Previtera](https://linkedin.com/in/Giovanni Previtera)
+- 💼 LinkedIn:(https://linkedin.com/in/Giovanni Previtera)
