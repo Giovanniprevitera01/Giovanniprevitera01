@@ -94,5 +94,5 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [Previtera40@gmail.co](mailto:Previtera40@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/GiovanniPrevitera](https://linkedin.com/in/GiovanniPrevitera)
+- 📧 Email: [Previtera40@gmail.com](mailto:Previtera40@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/Giovanni Previtera](https://linkedin.com/in/Giovanni Previtera)
