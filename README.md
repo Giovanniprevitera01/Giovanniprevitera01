@@ -70,7 +70,7 @@
 
 ---
 
-## 👨‍💻 Notable Academic Projects
+## 👨‍💻 Notable Projects
 
 - 🔒 **Biometric Authentication System (Thesys)**: Developed a facial recognition-based system for user authentication.  
 - 🩺 **Medical Image Denoising**: Applied autoencoding and deconvolution techniques to enhance medical images.  
