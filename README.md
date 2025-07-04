@@ -61,6 +61,8 @@
 - 🖥️ **Programming Languages**: Proficient in C, C++, Java, and Python; developed small-scale software applications for academic and personal projects.
 - 📊 **Databases**: Experience designing, managing, and querying relational databases using SQL.
 - 🌐 **Networking**: Solid understanding of network protocols, IP configuration, routing, and network management concepts.
+- 💻 **Operating Systems**: Good knowledge of Linux and Windows environments, including system management and shell scripting.
+- 📚 **Algorithms & Data Structures**: Solid understanding of fundamental algorithms and data structures, applied in efficient software development.
 - 🏗️ **Design Patterns**: Familiar with key design patterns for writing clean, modular, and maintainable code.
 - 👁️ **Computer Vision**: Knowledge of facial recognition, image processing, and basic machine learning techniques for digital image analysis.
 -  📈 **Data Analysis & Visualization**: Hands-on experience in exploratory data analysis, statistical modeling, and building insightful visual dashboards using Python (Pandas, Matplotlib, Seaborn) and Jupyter Notebooks
