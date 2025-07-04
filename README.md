@@ -7,66 +7,60 @@
 
 ## 🚀 Tech Stack & Tools
 
+
+ ## 🚀 Tech Stack & Tools
+
 <p align="center">
-  <!-- C -->
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- C++ -->
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- Java -->
   <a href="https://www.java.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- Python -->
   <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- Jupyter -->
   <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- SciPy -->
   <a href="https://scipy.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/SciPy_logo.svg" alt="SciPy" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/scipy_logo.svg" alt="SciPy" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- MySQL -->
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- PyTorch -->
   <a href="https://pytorch.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- Visual Studio -->
   <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
-  <!-- Amped FIVE (SVG placeholder since no official icon) -->
   <a href="https://ampedsoftware.com/five" target="_blank">
-    <img src="https://ampedsoftware.com/images/products/five/FIVE-logo-color.svg" alt="Amped FIVE" width="40" height="40"/>
+    <img src="https://ampedsoftware.com/images/products/five/FIVE-logo-color.svg" alt="Amped FIVE" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
   </a>
 </p>
 
