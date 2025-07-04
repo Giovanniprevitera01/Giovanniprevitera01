@@ -8,46 +8,68 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
+  <!-- C -->
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
+  <!-- C++ -->
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
+  <!-- Java -->
   <a href="https://www.java.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <!-- Jupyter -->
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
   </a>
+  <!-- SciPy -->
   <a href="https://scipy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="SciPy" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/SciPy_logo.svg" alt="SciPy" width="40" height="40"/>
   </a>
+  <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
+  <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
   </a>
+  <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   </a>
+  <!-- PyTorch -->
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   </a>
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  </a>
+  <!-- Visual Studio -->
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   </a>
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
+  <!-- Amped FIVE (SVG placeholder since no official icon) -->
+  <a href="https://ampedsoftware.com/five" target="_blank">
+    <img src="https://ampedsoftware.com/images/products/five/FIVE-logo-color.svg" alt="Amped FIVE" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 
@@ -61,16 +83,18 @@
 - 🕵️‍♂️ **Digital Forensics**: Skills in analyzing and recovering digital evidence using tools like Amped FIVE; capable of drafting technical forensic reports.
 - 🧠 **Problem Solving**: Strong logical reasoning and mathematical skills applied to computational challenges.
 - 🛠️ **Other Tools**: Proficient with Linux environments, virtualization software, and version control systems (Git & GitHub).
+- 📈 **Data Analysis & Visualization**: Hands-on experience in exploratory data analysis, statistical modeling, and building insightful visual dashboards using Python (Pandas, Matplotlib, Seaborn) and Jupyter Notebooks
+
 
 ---
 
 ## 👨‍💻 Notable Academic Projects
 
-- 🔒 **Biometric Authentication System**: Developed a facial recognition-based system for user authentication.  
+- 🔒 **Biometric Authentication System (Thesys)**: Developed a facial recognition-based system for user authentication.  
 - 🩺 **Medical Image Denoising**: Applied autoencoding and deconvolution techniques to enhance medical images.  
 - 🕵️‍♂️ **Digital Forensics Reports**: Produced technical reports using Amped FIVE for forensic analysis of videos and images.  
 - 🎬 **Movie Database Management**: Designed and implemented a relational database system for managing a movie collection using SQL.
-
+- 📊 **Restaurant Data Challenge**: Performed exploratory data analysis and built interactive dashboards to uncover insights from restaurant transaction datasets.
 ---
 
 ## 📊 GitHub Stats
