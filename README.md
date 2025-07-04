@@ -5,64 +5,64 @@
 
 ---
 
+
 ## 🚀 Tech Stack & Tools
-
-
- ## 🚀 Tech Stack & Tools
 
 <p align="center">
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://www.java.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://scipy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/scipy_logo.svg" alt="SciPy" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/scipy_logo.svg" alt="SciPy" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://opencv.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://pytorch.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://ampedsoftware.com/five" target="_blank">
-    <img src="https://ampedsoftware.com/images/products/five/FIVE-logo-color.svg" alt="Amped FIVE" width="40" height="40" style="border:2px solid black; border-radius:50%; padding:4px;"/>
+    <img src="https://ampedsoftware.com/images/products/five/FIVE-logo-color.svg" alt="Amped FIVE" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
 </p>
+
+ 
 
 
 ---
@@ -91,16 +91,8 @@
 - 📊 **Restaurant Data Challenge**: Performed exploratory data analysis and built interactive dashboards to uncover insights from restaurant transaction datasets.
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniPrevitera01&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiovanniPrevitera01&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [Previtera40@gmail.co](mailto:Previtera40@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/GiovanniPrevitera](https://linkedin.com/in/GiovanniPrevitera)
