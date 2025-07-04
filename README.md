@@ -4,12 +4,6 @@
 💻 I enjoy turning ideas into practical solutions by combining AI, software engineering, and data analysis.  
 
 ---
-
-
-## 🚀 Tech Stack & Tools
-
-
- 
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
@@ -27,9 +21,6 @@
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://scipy.org/" target="_blank">
-    <img src="./assets/scipy_white_bg.png" alt="SciPy" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
@@ -61,11 +52,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
   </a>
-  <a href="https://ampedsoftware.com/five" target="_blank">
-    <img src="./assets/ampedfive_white_bg.png" alt="Amped FIVE" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
 </p>
-
 
 ---
 
