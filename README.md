@@ -64,6 +64,12 @@
 | ⭐⭐⭐⭐                                | ⭐⭐⭐                                          | ⭐⭐⭐⭐                                      |
 | Familiar with design patterns and clean code principles | Hands-on in EDA, visualization, and ML basics | Solid understanding of networks, IP config, and shell scripting |
 
+| 👁️ Computer Vision                 | 🗄️ Databases                                  | 🛠️ Other Tools                            |
+|-------------------------------------|-----------------------------------------------|--------------------------------------------|
+| ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) | ![Amped FIVE](https://img.shields.io/badge/-AmpedFIVE-FF0000?logo=forensic&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode) |
+| ⭐⭐⭐                                 | ⭐⭐⭐                                          | ⭐⭐⭐⭐                                      |
+| Experience with facial recognition, image processing, and UI integration | Database design, management, and querying | Version control, virtualization, and forensic tools |
+
 ## 👨‍💻 Notable Projects
 
 - 🔒 **Biometric Authentication System (Thesys)**: Developed a facial recognition-based system for user authentication.  
