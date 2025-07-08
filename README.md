@@ -3,59 +3,6 @@
 🎓 **Computer Science graduate** with a strong passion for Artificial Intelligence, Computer Vision, and software development.  
 💻 I enjoy turning ideas into practical solutions by combining AI, software engineering, and data analysis.  
 
----
-## 🚀 Tech Stack & Tools
-
-<p align="center">
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
-  </a>
-</p>
-
----
-
 # 🛠️ Tech Stack & Skills
 
 | 💻 Programming                     | 📊 Data & AI                                   | 🌐 Networking & Systems                  |
@@ -78,7 +25,50 @@
 - 🎬 **Movie Database Management**: Designed and implemented a relational database system for managing a movie collection using SQL.
 - 📊 **Restaurant Data Challenge**: Performed exploratory data analysis and built interactive dashboards to uncover insights from restaurant transaction datasets.
 ---
+# 🚀 Technologies
 
+<p align="center">
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
+  </a>
+  <!-- C++ -->
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
+  </a>
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
+  </a>
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
+  </a>
+  <!-- OpenCV -->
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
+  </a>
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
+  </a>
+  <!-- SQLite -->
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
+  </a>
+  <!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" style="border:3px solid black; border-radius:50%; padding:6px; background-color:white;"/>
+  </a>
+</p>
 
 ## 📫 Contact Me
 
