@@ -8,13 +8,13 @@
 | 💻 Programming                     | 📊 Data & AI                                   | 🌐 Networking & Systems                  |
 |-------------------------------------|-----------------------------------------------|--------------------------------------------|
 | ![C](https://img.shields.io/badge/-C-blue?logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=matplotlib) ![Seaborn](https://img.shields.io/badge/-Seaborn-2C2D72?logo=seaborn) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox) |
-| ⭐⭐⭐⭐                                | ⭐⭐⭐                                          | ⭐⭐⭐⭐                                      |
+| ⭐⭐⭐⭐                                | ⭐⭐⭐⭐️                                          | ⭐⭐⭐⭐                                      |
 | Familiar with design patterns and clean code principles | Hands-on in EDA, visualization, and ML basics | Solid understanding of networks, IP config, and shell scripting |
 
 | 👁️ Computer Vision                 | 🗄️ Databases                                  | 🛠️ Other Tools                            |
 |-------------------------------------|-----------------------------------------------|--------------------------------------------|
 | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) | ![Amped FIVE](https://img.shields.io/badge/-AmpedFIVE-FF0000?logo=forensic&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode) |
-| ⭐⭐⭐                                 | ⭐⭐⭐                                          | ⭐⭐⭐⭐                                      |
+| ⭐⭐⭐⭐️                                 | ⭐⭐⭐⭐️                                          | ⭐⭐⭐⭐                                      |
 | Experience with facial recognition, image processing, and UI integration | Database design, management, and querying | Version control, virtualization, and forensic tools |
 
 ## 👨‍💻 Notable Projects
