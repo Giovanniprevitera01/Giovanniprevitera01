@@ -56,21 +56,13 @@
 
 ---
 
-## 📂 Skills & Competencies
+# 🛠️ Tech Stack & Skills
 
-- 🖥️ **Programming Languages**: Proficient in C, C++, Java, and Python; developed small-scale software applications for academic and personal projects.
-- 📊 **Databases**: Experience designing, managing, and querying relational databases using SQL.
-- 🌐 **Networking**: Solid understanding of network protocols, IP configuration, routing, and network management concepts.
-- 💻 **Operating Systems**: Good knowledge of Linux and Windows environments, including system management and shell scripting.
-- 📚 **Algorithms & Data Structures**: Solid understanding of fundamental algorithms and data structures, applied in efficient software development.
-- 🏗️ **Design Patterns**: Familiar with key design patterns for writing clean, modular, and maintainable code.
-- 👁️ **Computer Vision**: Knowledge of facial recognition, image processing, and basic machine learning techniques for digital image analysis.
--  📈 **Data Analysis & Visualization**: Hands-on experience in exploratory data analysis, statistical modeling, and building insightful visual dashboards using Python (Pandas, Matplotlib, Seaborn) and Jupyter Notebooks
-- 🕵️‍♂️ **Digital Forensics**: Skills in analyzing and recovering digital evidence using tools like Amped FIVE; capable of drafting technical forensic reports.
-- 🧠 **Problem Solving**: Strong logical reasoning and mathematical skills applied to computational challenges.
-- 🛠️ **Other Tools**: Proficient with Linux environments, virtualization software, and version control systems (Git & GitHub).
-
----
+| 💻 Programming                     | 📊 Data & AI                                   | 🌐 Networking & Systems                  |
+|-------------------------------------|-----------------------------------------------|--------------------------------------------|
+| ![C](https://img.shields.io/badge/-C-blue?logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=matplotlib) ![Seaborn](https://img.shields.io/badge/-Seaborn-2C2D72?logo=seaborn) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox) |
+| ⭐⭐⭐⭐                                | ⭐⭐⭐                                          | ⭐⭐⭐⭐                                      |
+| Familiar with design patterns and clean code principles | Hands-on in EDA, visualization, and ML basics | Solid understanding of networks, IP config, and shell scripting |
 
 ## 👨‍💻 Notable Projects
 
